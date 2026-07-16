@@ -10,7 +10,7 @@ class A
 	
 //	class B
 //	{
-//		public void config()
+//		public void config()g
 //		{
 //			System.out.println("in config");
 //		}
